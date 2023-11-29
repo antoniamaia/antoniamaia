@@ -3,9 +3,8 @@
 
 <div class="apresentação" align="left">
 <br>
-Hi, I am Maria Antônia, I've worked a lot in different areas, and today I'm venturing into the world of IT. 🦋 ✨
+I am Maria Antônia, I've worked a lot in different areas, and today I'm venturing into the world of IT. 🦋 ✨
 
-<br>
 I find myself in a certain career transition, learning something new every day. I enjoy developing new skills, have a knack for communicating with people, and thrive in a team environment. I also like being envolved in meaningful projects, and contributing with Open Source community. 
 
 
@@ -22,7 +21,7 @@ I find myself in a certain career transition, learning something new every day. 
 
 <div class="find me" align="center">
 
-<table>
+<table style="border: none;">
 <tr>
 <td>
 <a href="mailto:mdeazevedomaia@gmail.com"> 
